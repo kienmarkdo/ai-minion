@@ -1,5 +1,7 @@
 # 🤖 AI Employee Workflow System
 
+DEMO VIDEO: https://youtu.be/NHMcDQ9itSs
+
 **Trend Micro AI Hackathon 2025 - Team 9**
 
 An autonomous AI Employee that manages complete software development workflows from meeting transcripts to deployed code.
